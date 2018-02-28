@@ -20,6 +20,13 @@ Udacity, in partnership with Google, has videos, courses, and nanodegrees to get
 * [Udacity & Google's Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 * [Udacity's Guide to Installing Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)
 
+## Udemy
+
+Udemy is another source of courses for learning Android, offering introductory to advanced courses. 
+
+* [The full list of Android courses available on Udemy](https://www.udemy.com/courses/search/?q=android)
+* [Tim Buchalka's Udemy course on mastering Android](https://www.udemy.com/master-android-7-nougat-java-app-development-step-by-step/)
+
 ## Corey Latislaw's Self-Guided Learning Plan
 
 Developer and Google Developer Expert (GDE) [Corey Latislaw](https://twitter.com/corey_latislaw) has collected a series of videos that covers just about everything you'd need to know to be successful in Android development. Not all the videos in this list are for beginners, but it's very handy to know the full scope of the learning ahead for you!
